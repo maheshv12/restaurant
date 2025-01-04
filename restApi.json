@@ -1,0 +1,31 @@
+[
+    {
+      "navbarLinks": [
+        { "id": 1, "title": "Home", "link": "home" },
+        { "id": 2, "title": "About", "link": "about" },
+        { "id": 3, "title": "Menu", "link": "menu" },
+        { "id": 4, "title": "Contact", "link": "contact" }
+      ],
+      "dishes": [
+        {
+          "id": 1,
+          "title": "Pasta Primavera",
+          "category": "Italian",
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "id": 2,
+          "title": "Sushi Platter",
+          "category": "Japanese",
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "id": 3,
+          "title": "Tacos",
+          "category": "Mexican",
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    }
+  ]
+  
